@@ -1,4 +1,4 @@
-import { NavigationContainer } from '@react-navigation/native';
+import { NavigationContainer } from 'npx create-expo-app nome-projeto --template blank';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Home from './telas/Tela_Home.js'
 import Sobre from './telas/Tela_Sobre.js';
